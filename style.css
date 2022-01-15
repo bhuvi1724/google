@@ -1,0 +1,33 @@
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+  font-size: 23px;
+}
+.headingdiv
+
+{
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+  float: none;
+}
+.headingdiv2
+{
+  font-size: 18px ;
+}
+.result_parra_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+}
+canvas{
+ margin-top: 100px;
+ border: 5px solid white ;
+ border-radius: 20%;
+}
+body{
+    background-color: gray;
+}
